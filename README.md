@@ -1,4 +1,4 @@
-# holland-lab-rdna-variant-methylation-in-mouse
+# holland-lab-rdna-ongoing
 
 An R script developed for an ongoing project. This script aims to extract the methylation status of the A/C variant in mouse rDNA.
 
